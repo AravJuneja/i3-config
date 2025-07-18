@@ -2,7 +2,9 @@
  
  
 
-![i3 & Polybar Overview](./screenshot1.png)  
+![](./screenshot1.png)  
 
-![Floating Window Demo](./screenshot2.png)  
+![](./screenshot3.png)  
+
+![](./screenshot2.png)  
 

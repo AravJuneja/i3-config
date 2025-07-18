@@ -2,4 +2,9 @@
  
  
 
-![screenshot_2025-07-18_00-12-00](https://hackmd.io/_uploads/Bk0bOIvUgl.png)
+![i3 & Polybar Overview](./screenshot1.png)  
+*Polybar modules and workspace gaps*
+
+![Floating Window Demo](./screenshot2.png)  
+*Example of floating terminals and notifications*
+

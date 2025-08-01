@@ -13,7 +13,7 @@ font pango:monospace 8
 exec_always --no-startup-id xmodmap ~/.Xmodmap
 
 # Set wallpaper
-exec_always --no-startup-id feh --bg-fill /home/aravjuneja/Pictures/wallpaper/1a3e792e7628921ff317430173d6a09b.jpg
+exec_always --no-startup-id feh --bg-fill /home/aravjuneja/Pictures/wallpaper/3840x2160-ivory-solid-color-background.jpg
 
 # wifi manager
 exec --no-startup-id nm-applet
